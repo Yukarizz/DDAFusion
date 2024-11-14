@@ -3,7 +3,7 @@ The implementation of "Visible and Infrared Image Fusion Under Adverse Weather C
 <div align="center">
   <img src="https://github.com/Yukarizz/DDAFusion/blob/main/images/image1.png" width="50%" height="50%">
 </div>
-
+<div align="center">
 <table>
   <tr>
     <td><figure><img src="https://github.com/Yukarizz/DDAFusion/blob/main/images/foggy.gif" width="320" height="240"><figcaption>Foggy</figcaption></figure></td>
@@ -14,3 +14,4 @@ The implementation of "Visible and Infrared Image Fusion Under Adverse Weather C
     <td><figure><img src="https://github.com/Yukarizz/DDAFusion/blob/main/images/snowy.gif" width="320" height="240"><figcaption>Snowy</figcaption></figure></td>
   </tr>
 </table>
+</div>
