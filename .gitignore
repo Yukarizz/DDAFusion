@@ -1,0 +1,6 @@
+models/
+test_img/
+test_result/
+train_output/
+.idea/
+__pycache__/
