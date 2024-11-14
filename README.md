@@ -1,7 +1,7 @@
 The implementation of "Visible and Infrared Image Fusion Under Adverse Weather Conditions with Manipulated Foundation Model".
 
 <div align="center">
-  <img src="./images/image1.png" width="50%" height="50%">
+  <img src="https://github.com/Yukarizz/DDAFusion/blob/main/images/image1.png" width="50%" height="50%">
 </div>
 
 <table>
